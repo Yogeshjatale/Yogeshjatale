@@ -4,7 +4,7 @@
 - 💞️ I’m looking to ... job in Java Developer 
 - 📫 How to reach me ...insta_yogesh_jatale
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...i want to be rich 🤑 
+
 
 <!---
 Yogeshjatale/Yogeshjatale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
